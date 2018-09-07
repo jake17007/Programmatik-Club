@@ -1,2 +1,2 @@
-# Programmatik-Club-Repo
+# Programmatik Club
 Repository for Programmatik
